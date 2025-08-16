@@ -1,0 +1,10 @@
+import krishna from './assets/krishna.png';
+
+export default function App() {
+  return (
+    <div>
+      <h1>Shri Krishna Portfolio</h1>
+      <img src={krishna} alt="Shri Krishna" />
+    </div>
+  );
+}
