@@ -3,14 +3,10 @@ import krishna from './assets/krishna.jpg'; //
 
 export default function App() {
   return (
-    <div style={{ textAlign: 'center', padding: '20px' }}>
+    <div>
       <h1>Shri Krishna Portfolio</h1>
-      <img 
-        src={krishna} 
-        alt="Shri Krishna" 
-        style={{ width: '300px', borderRadius: '10px' }} 
+      <img src={krishna} alt="Shri Krishna" style={{ width: '300px', borderRadius: '10px' }} 
       />
-      <p>Welcome to my Shri Krishna portfolio website.</p>
     </div>
   );
 }
