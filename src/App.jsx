@@ -1,5 +1,5 @@
 import React from 'react';
-import krishna from './assets/krishna.jpg'; //
+import krishna from './assets/krishna.jpg';
 
 export default function App() {
   return (
