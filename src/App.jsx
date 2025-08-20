@@ -3,7 +3,7 @@ export default function App() {
     <div style={{ textAlign: "center", padding: "20px" }}>
       <h1>Shri Krishna Portfolio</h1>
       <img 
-        src="/krishna.png"   // ✅ file from public folder
+        src="/krishna.png"
         alt="Shri Krishna" 
         style={{ width: "300px", borderRadius: "10px" }} 
       />
